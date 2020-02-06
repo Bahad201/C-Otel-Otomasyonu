@@ -152,8 +152,6 @@
     <EmbeddedResource Include="Resepsiyonist.resx">
       <DependentUpon>Resepsiyonist.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Otel Otomasyonu_1_TemporaryKey.pfx" />
-    <None Include="Otel Otomasyonu_TemporaryKey.pfx" />
     <None Include="OtelOtomasyonDataSet.xsc">
       <DependentUpon>OtelOtomasyonDataSet.xsd</DependentUpon>
     </None>
